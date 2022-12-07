@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎓  Superior em Gestão de TI - UNG
 - 🎓  Tecnólogo em manutenção e suporte em informática - IFSP
 - 📙  Retomando os estudos para futuramente migrar para a área de desenvolvimento web, pretendo iniciar como dev Fron End
-- 📚  Estudando HTML, Javascript e React JS
+- 📚  Estudando HTML, CSS, Javascript e React JS
 - 🖱   Atualmente trabalhando como Analista de Suporte Junior
 - 📫  E-mail: sacmario@outlook.com
 
