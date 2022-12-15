@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🤓  Apaixonado por tecnologia 💻
 - 🎓  Superior em Gestão de TI - UNG
 - 🎓  Tecnólogo em manutenção e suporte em informática - IFSP
-- 📙  Retomando os estudos para futuramente migrar para a área de desenvolvimento web, pretendo iniciar como dev Fron End
+- 📙  Retomando os estudos para futuramente migrar para a área de desenvolvimento web, pretendo iniciar como dev Front End
 - 📚  Estudando HTML, CSS, Javascript e React JS
 - 🖱   Atualmente trabalhando como Analista de Suporte Junior
 - 📫  E-mail: sacmario@outlook.com
-
